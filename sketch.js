@@ -6,6 +6,8 @@ var engine, world;
 var box1, pig1;
 var backgroundImg;
 
+var a = 'Angry Bird';
+
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
 }
